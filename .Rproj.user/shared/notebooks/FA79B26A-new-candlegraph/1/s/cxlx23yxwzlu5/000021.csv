@@ -1,4 +1,0 @@
-"0","# loading data"
-"0","brands <- read_csv(""/assets/data/brands.csv"")"
-"2","Error: '/assets/data/brands.csv' does not exist.
-"
