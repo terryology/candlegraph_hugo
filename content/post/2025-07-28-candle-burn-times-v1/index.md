@@ -7,12 +7,6 @@ categories: []
 tags: []
 ---
 
----
-title: Candle Burn Times v1
-author: Terry
-date: 2025-07-26
----
-
 Before this project started, I enjoyed scented candles as much as the next person - well, maybe a bit more than the next person - but the thought of taking measurements had not yet crossed my mind. As I've mentioned, I wanted to increase my Excel skills, and candles just so happened to be there. The very first candle I measured was one from Paddywax Apothecary, probably because it was the most recent candle I had purchased. The scent was Patchouli and Tobacco, and it's one of the candles in my first presentation, so I'm sure I'll have a separate post about it somewhere down the line. While I don't burn candles every single day anymore, at the time, I was deep into my new obsession and quickly went down the data-gathering rabbit hole. Soon, I had recorded information about burn times, price, and weight from five different candles, and it was time to start making some of my favorite things - charts and graphs.
 
 With the data I had imported into Excel, I started playing around with charts and graphs during my free time (and to be honest, when things were slow at work). I was at the stage in a new skill or hobby where the first leaps were relatively big ones - "I figured out how to apply custom formatting to this chart!" - and those types of discoveries kept me interested and excited to keep going. I soon had charted performance information on five different scented candles and I put together a PowerPoint presentation to pull it all together. The timeline gets a bit tricky here as I can't exactly remember whether I created the presentation specifically for a Toastmasters speech, or I had it ready and waiting. Either way, I think the presentation I gave to my Toastmasters group served as a sort of signal boost. If I hadn't passed around candles in that small conference room, I might have just left "Candle Burn Times" as a self-contained PowerPoint/PDF file, and gone no further with it.
