@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         }
     ],
-    "path": "~/Documents/Development/Sites/Candlegraph/candlegraph_hugo/content/post/2025-07-25-next-new-r-markdown"
+    "path": "~/Documents/Development/Sites/Candlegraph/candlegraph_hugo"
 }
