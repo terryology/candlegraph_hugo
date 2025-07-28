@@ -1,5 +1,0 @@
-"0","# loading data"
-"0","brands <- read_csv(""brands.csv"")"
-"0","burn_times <- read_csv(""burn_times.csv"")"
-"0","materials <- read_csv(""materials.csv"")"
-"0","purchases <- read_csv(""purchases.csv"")"
