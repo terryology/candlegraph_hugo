@@ -4,3 +4,6 @@
 .Rprofile
 .Rhistorty
 .candlegraph_hugo_Rproj
+candlegraph_hugo.Rproj
+R/build.R
+R/build2.R
