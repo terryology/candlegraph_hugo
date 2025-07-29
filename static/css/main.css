@@ -88,11 +88,11 @@ img {
 
 .nav-links a {
   text-decoration: none;
-  color: #111;
+  color: #4a4a4a;
 }
 
 .nav-links a:hover {
-  color: #000;
+  color: #d4a75a;
 }
 
 .content {
