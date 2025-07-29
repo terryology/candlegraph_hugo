@@ -12,6 +12,8 @@ menu:
   main:
     - name: About
       url: /about/
+    - name: Infographics
+      url: https://public.tableau.com/views/Candlegraph/Candlegraph
     - name: GitHub
       url: https://github.com/terryology
     - name: Bluesky
