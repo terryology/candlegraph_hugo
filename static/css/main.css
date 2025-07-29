@@ -136,11 +136,6 @@ img {
   transition: background 150ms ease;
 }
 
-.article-content a:hover,
-.article-content a:focus {
-  background: #CBF8DF;
-}
-
 .article-content hr {
   width: 150px;
   margin: 50px auto;
