@@ -165,26 +165,18 @@ img {
   color: #111;
 }
 
-.post-meta {
-  font-size: 14px;
-}
-
 .archive-title {
   font-size: 32px;
   margin-top: 60px;
 }
 
+.archive-item-meta {
+  font-size: 14px;
+}
+
 .archive-item {
   margin: 5px 0 15px;
   padding: 0;
-}
-
-.archive-item-date {
-  color: #d4a75a;
-  font-size: 14px;
-  padding: 5px 0;
-  margin-top: 5px;
-  display: block;
 }
 
 .archive-item-link {
@@ -199,6 +191,14 @@ img {
 
 .archive-item-link:hover {
   border-bottom-color: #222;
+}
+
+.archive-item-date {
+  color: #d4a75a;
+  font-size: 14px;
+  padding: 5px 0;
+  margin-top: 5px;
+  display: block;
 }
 
 .footer {
