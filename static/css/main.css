@@ -165,6 +165,10 @@ img {
   color: #111;
 }
 
+.post-meta {
+  font-size: 20px;
+}
+
 .archive-title {
   font-size: 32px;
   margin-top: 60px;
