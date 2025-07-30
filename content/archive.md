@@ -1,5 +1,5 @@
 ---
 title: "Archive"
-layout: archives
+layout: archive
 hidden: true
 ---
