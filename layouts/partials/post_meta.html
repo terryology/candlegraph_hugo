@@ -1,7 +1,6 @@
 <span class="post-meta">
   {{ $datestr := .Site.Params.dateformat | .Date.Format }}
   <i class="fas fa-calendar"></i>&nbsp;{{ $datestr }}
-  {{ end }}
   {{ if not .Site.Params.hideAuthor }}
     {{ if .Params.author }}
       {{ if reflect.IsSlice .Params.author }}
