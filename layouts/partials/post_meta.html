@@ -1,5 +1,5 @@
 <span class="post-meta">
-  {{ $datestr := .Site.Params.dateformat | .Date.Format }}
+  {{ $datestr := .Site.Params.dateFormat | .Date.Format }}
   <i class="fas fa-calendar"></i>&nbsp;{{ $datestr }}
   {{ if not .Site.Params.hideAuthor }}
     {{ if .Params.author }}
