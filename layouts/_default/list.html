@@ -27,6 +27,8 @@
     <article class="archive-item">
       <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a><br>
       <div class="archive-item-meta">{{ partial "post_meta.html" . }}
+        {{ .Summary }}
+        <a href="{{ .Permalink }}">Read Post »</a>
       </div>  
     </article>
     {{ end }}
